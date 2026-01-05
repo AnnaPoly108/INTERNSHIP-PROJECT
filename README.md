@@ -1,5 +1,6 @@
 # INTERNSHIP-PROJECT
 📚 Automated Class & Assignment Reminder System
+
 📌 Overview
 
 The Automated Class & Assignment Reminder System is a workflow-based automation project built using n8n. It automatically sends timely reminders to students about upcoming class sessions and assignment deadlines by reading data from Google Sheets and delivering notifications through Email and Discord.
