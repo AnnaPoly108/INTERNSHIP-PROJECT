@@ -1,5 +1,5 @@
 # INTERNSHIP-PROJECT
-📚 Automated Class & Assignment Reminder System
+📚 Automated Class & Assignment Reminder System  - by Anna, Neethu, Tissy
 
 📌 Overview
 
