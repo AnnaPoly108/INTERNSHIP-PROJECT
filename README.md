@@ -56,20 +56,21 @@ Email (SMTP/Gmail)
 Discord Webhooks
 
 🧩 System Architecture
+
+
 Google Sheets
-      ↓
-      
+   │
+   ▼
 n8n Workflow
-
-      ↓
-      
+   │
+   ▼
 Code Node (Date & Time Logic)
+   │
+   ├──► Email Notification
+   │
+   └──► Discord Webhook
 
-      ↓
-      
- ┌───────────────┐
- │               │
-Email Node     Discord Webhook
+
 
 ⚙️ How It Works
 
