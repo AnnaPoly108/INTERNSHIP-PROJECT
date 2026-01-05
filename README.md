@@ -58,10 +58,15 @@ Discord Webhooks
 🧩 System Architecture
 Google Sheets
       ↓
+      
 n8n Workflow
+
       ↓
+      
 Code Node (Date & Time Logic)
+
       ↓
+      
  ┌───────────────┐
  │               │
 Email Node     Discord Webhook
