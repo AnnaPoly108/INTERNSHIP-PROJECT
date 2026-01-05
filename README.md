@@ -1,5 +1,5 @@
 # INTERNSHIP-PROJECT
-📚 Automated Communication & Reminder System  - by Anna, Neethu, Tissy
+📚 Automated Communication & Reminder System  - by Anna, Neethu, Tissy - Team 2
 
 📌 Overview
 
